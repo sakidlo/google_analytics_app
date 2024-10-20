@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/google_analytics_app.git
+git clone https://github.com/sakidlo/google_analytics_app.git
 cd google_analytics_app
 ```
 ### 2. Set up Google Cloud
