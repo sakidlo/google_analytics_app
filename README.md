@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/google_analytics_app.git
 cd google_analytics_app
-
+```
 ### 2. Set up Google Cloud
 
 Follow these steps to set up your Google Cloud environment:
@@ -42,7 +42,7 @@ Make sure you have Bundler installed. Then run:
 
 ```bash
 bundle install
-
+```
 ### 4. Configure the application
 
 - Move the downloaded `credentials.json` file to the `config` directory.
@@ -50,6 +50,7 @@ bundle install
 
 ```bash
 CREDENTIALS_PATH = 'config/credentials.json' # Update this path if necessary
+```
 
 - Replace `'YOUR_VIEW_ID'` in `app.rb` with your actual Google Analytics View ID.
 
@@ -58,13 +59,14 @@ Start the Sinatra application with the following command:
 
 ```bash
 ruby app.rb
+```
 
 ### 6. Access the application
 Open your web browser and navigate to:
 
 ```bash
 http://localhost:4567
-
+```
 
 ## Acknowledgments
 
