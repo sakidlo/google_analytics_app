@@ -71,4 +71,5 @@ http://localhost:4567
 ## Acknowledgments
 
 [Sinatra](https://sinatrarb.com/) - The web framework used for this project.
+
 [Google Analytics Reporting API] - The API used to fetch analytics data.
